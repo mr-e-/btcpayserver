@@ -10621,7 +10621,7 @@ All mobile class names should be prefixed by m- */
 }
 
 .expired .timer-row {
-    background: #E5465A;
+    background: #F1476E;
     opacity: 1;
     z-index: 999;
 }
